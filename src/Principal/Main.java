@@ -12,12 +12,10 @@ public class Main extends JavaPlugin {
 
     @Override
     public void onLoad() {
-
     }
 
     @Override
     public void onEnable() {
-
         // Mensagem abaixo será enviada ao Console quando o Plugin for Iniciado sem
         // erros.
         Bukkit.getConsoleSender().sendMessage(
